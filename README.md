@@ -1,2 +1,2 @@
 # MyWebsite
-This is a basic portfolio website using html and css
+This is a basic portfolio website using html, css and Bootstrap
